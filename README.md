@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Uploading Screenshot 2024-12-16 101935.png…]()
+![Screenshot 2024-12-16 101935](https://github.com/user-attachments/assets/e16cf791-88cf-43f7-9632-5ac5c6f433b6)
 
 
 ### Name: R.Rabin
